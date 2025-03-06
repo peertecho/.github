@@ -16,7 +16,7 @@ Group 3
 4. [example-pear-react-hyperbee-js](https://github.com/peertecho/example-pear-react-hyperbee-js)
 5. [example-pear-react-hyperdrive-js](https://github.com/peertecho/example-pear-react-hyperdrive-js)
 
-Other
+Misc
 1. [example-pear-react-asset-js](https://github.com/peertecho/example-pear-react-asset-js)
 
 Todo
