@@ -23,4 +23,5 @@ Todo
 - [example-pear-react-price-js](https://github.com/peertecho/example-pear-react-price-js)
 - [example-pear-react-autobase-js](https://github.com/peertecho/example-pear-react-autobase-js)
 - [example-pear-react-hyperdb-js](https://github.com/peertecho/example-pear-react-hyperdb-js)
+- [example-pear-react-rocksdb-js](https://github.com/peertecho/example-pear-react-rocksdb-js)
 - [akaoting](https://github.com/peertecho/akaoting)
