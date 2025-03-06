@@ -20,8 +20,9 @@ Other
 1. [example-pear-react-asset-js](https://github.com/peertecho/example-pear-react-asset-js)
 
 Todo
-- [example-pear-react-price-js](https://github.com/peertecho/example-pear-react-price-js)
 - [example-pear-react-autobase-js](https://github.com/peertecho/example-pear-react-autobase-js)
 - [example-pear-react-hyperdb-js](https://github.com/peertecho/example-pear-react-hyperdb-js)
 - [example-pear-react-rocksdb-js](https://github.com/peertecho/example-pear-react-rocksdb-js)
+- [example-pear-react-price-js](https://github.com/peertecho/example-pear-react-price-js)
 - [akaoting](https://github.com/peertecho/akaoting)
+- [ploanp](https://github.com/peertecho/ploanp)
