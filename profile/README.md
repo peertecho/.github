@@ -1,20 +1,20 @@
 # Examples
 Group 1
-1. example-pear-react-js
-2. example-pear-react-tailwind-js
-3. example-pear-react-tailwind-shadcn-js
+1. [example-pear-react-js](https://github.com/peertecho/example-pear-react-js)
+2. [example-pear-react-tailwind-js](https://github.com/peertecho/example-pear-react-tailwind-js)
+3. [example-pear-react-tailwind-shadcn-js](https://github.com/peertecho/example-pear-react-tailwind-shadcn-js)
 
 Group 2
-1. example-pear-react-ts
-2. example-pear-react-tailwind-ts
-3. example-pear-react-tailwind-shadcn-ts
+1. [example-pear-react-ts](https://github.com/peertecho/example-pear-react-ts)
+2. [example-pear-react-tailwind-ts](https://github.com/peertecho/example-pear-react-tailwind-ts)
+3. [example-pear-react-tailwind-shadcn-ts](https://github.com/peertecho/example-pear-react-tailwind-shadcn-ts)
 
 Group 3
-1. example-pear-react-hyperswarm-js
-2. example-pear-react-hypercore-js
-3. example-pear-react-corestore-js
-4. example-pear-react-hyperbee-js
-5. example-pear-react-hyperdrive-js
+1. [example-pear-react-hyperswarm-js](https://github.com/peertecho/example-pear-react-hyperswarm-js)
+2. [example-pear-react-hypercore-js](https://github.com/peertecho/example-pear-react-hypercore-js)
+3. [example-pear-react-corestore-js](https://github.com/peertecho/example-pear-react-corestore-js)
+4. [example-pear-react-hyperbee-js](https://github.com/peertecho/example-pear-react-hyperbee-js)
+5. [example-pear-react-hyperdrive-js](https://github.com/peertecho/example-pear-react-hyperdrive-js)
 
 Other
-1. example-pear-react-asset-js
+1. [example-pear-react-asset-js](https://github.com/peertecho/example-pear-react-asset-js)
