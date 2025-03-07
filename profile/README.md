@@ -21,6 +21,7 @@ Misc
 
 Todo
 - [example-pear-react-autobase-js](https://github.com/peertecho/example-pear-react-autobase-js)
+- [example-pear-react-multisig-js](https://github.com/peertecho/example-pear-react-multisig-js)
 - [example-pear-react-hyperdb-js](https://github.com/peertecho/example-pear-react-hyperdb-js)
 - [example-pear-react-rocksdb-js](https://github.com/peertecho/example-pear-react-rocksdb-js)
 - [example-pear-react-price-js](https://github.com/peertecho/example-pear-react-price-js)
