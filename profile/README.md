@@ -24,6 +24,7 @@ Todo
 - [example-pear-react-multisig-js](https://github.com/peertecho/example-pear-react-multisig-js)
 - [example-pear-react-hyperdb-js](https://github.com/peertecho/example-pear-react-hyperdb-js)
 - [example-pear-react-rocksdb-js](https://github.com/peertecho/example-pear-react-rocksdb-js)
+- [example-pear-react-ipc-js](https://github.com/peertecho/example-pear-react-ipc-js)
 - [example-pear-react-price-js](https://github.com/peertecho/example-pear-react-price-js)
 - [akaoting](https://github.com/peertecho/akaoting)
 - [ploanp](https://github.com/peertecho/ploanp)
