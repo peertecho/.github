@@ -15,12 +15,12 @@ Group 3
 3. [example-pear-react-corestore-js](https://github.com/peertecho/example-pear-react-corestore-js)
 4. [example-pear-react-hyperbee-js](https://github.com/peertecho/example-pear-react-hyperbee-js)
 5. [example-pear-react-hyperdrive-js](https://github.com/peertecho/example-pear-react-hyperdrive-js)
+6. [example-pear-react-autobase-js](https://github.com/peertecho/example-pear-react-autobase-js)
 
 Misc
 1. [example-pear-react-asset-js](https://github.com/peertecho/example-pear-react-asset-js)
 
 Todo
-- [example-pear-react-autobase-js](https://github.com/peertecho/example-pear-react-autobase-js)
 - [example-pear-react-multisig-js](https://github.com/peertecho/example-pear-react-multisig-js)
 - [example-pear-react-hyperdb-js](https://github.com/peertecho/example-pear-react-hyperdb-js)
 - [example-pear-react-rocksdb-js](https://github.com/peertecho/example-pear-react-rocksdb-js)
